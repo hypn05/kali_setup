@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir = $(pwd)
+dir=$(pwd)
 mv ${dir} ${dir}_COMPLETE
 
 cd ..
